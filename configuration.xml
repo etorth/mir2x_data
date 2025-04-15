@@ -37,11 +37,4 @@
         <bgmDB>res/sound/bgm.zsdb</bgmDB>
         <seffDB>res/sound/seff.zsdb</seffDB>
     </sound>
-
-    <network>
-        <server>
-            <ip>127.0.0.1</ip>
-            <port>5000</port>
-        </server>
-    </network>
 </root>
